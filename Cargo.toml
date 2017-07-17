@@ -1,0 +1,8 @@
+[package]
+name = "projecta"
+version = "0.1.0"
+authors = ["Jörg Thalheim <joerg@thalheim.io>"]
+
+[dependencies]
+libb = { git = "https://github.com/Mic92/libb" }
+nix = "0.8"
